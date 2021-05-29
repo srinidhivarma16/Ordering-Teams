@@ -1,0 +1,10 @@
+Start
+Declare variables t,i,r
+Declare array a1,a2,a3
+Initialize the variables in arrays a1, a2, a3
+Checking whether it is possible to order these arrays 
+For each 1 ≤ i ≤ 2, i+1-th element is stricly greater than the i-th element
+Then print yes
+Else
+print no
+End
